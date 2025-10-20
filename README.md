@@ -1,6 +1,6 @@
 # 🧠 HeadTail Symbolic Encoder & Visualizer
 
-This Python module encodes text messages into symbolic binary streams using custom "Heads" and "Tails" blocks, then visualizes the binary stream as an RGB image. It also supports full decoding back to the original message.
+This Python module encodes text messages into symbolic binary streams using custom "Heads" and "Tails" blocks, then visualizes the binary stream as an RGB image. It also supports full decoding back to the original message. This method of decodign help in binary Error correction as one bit is represented using binary encode for word [head] or word [tail] based on bit value.
 
 ---
 
